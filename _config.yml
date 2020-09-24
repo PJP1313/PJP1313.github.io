@@ -1,20 +1,20 @@
 # Site wide configuration
 
-title: # Pamela Pierce, Digital Scholarship & Repository Librarian
+title: Pamela Pierce, Digital Scholarship & Repository Librarian
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: #Pamela Pierce
+  name: Pamela Pierce
   avatar: bio-photo.jpg
-  bio: #Librarian interested in digital collections
-  email: #piercepa@ohsu.edu
+  bio: Librarian interested in digital collections
+  email: piercepa@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
   github: #username
-  orcid: # 0000-0002-3000-784X (ex. 0000-0000-0000-0000)
+  orcid: 0000-0002-3000-784X (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
   google:
